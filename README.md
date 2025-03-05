@@ -5,7 +5,7 @@ A **simple yet efficient database management system (DBMS)** built using Python.
 ## 📂 Directory Structure
 
 ```
-[Your Folder Name]/       # the folder in which user will place the main python script (CRUD-APP (DBMS).py)
+NED-DBMS/                 # the folder in which user will place the main python script (CRUD-APP (DBMS).py)
 │── CRUD-APP (DBMS).py    # Main Python script
 │── README.md             # Project documentation (can be placed in the same folder as the code or elsewhere)
 │── databases/            # Automatically created on execution
@@ -49,11 +49,11 @@ A **simple yet efficient database management system (DBMS)** built using Python.
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/huzaifa-2005/DBMS-project.git
+   git clone https://github.com/huzaifa-2005/NED-DBMS.git
    ```
 2. Navigate to the folder where you placed the Python script:
    ```sh
-   cd <Your Folder Name>
+   cd NED-DBMS
    ```
 3. Run the script:
    ```sh
@@ -71,6 +71,5 @@ A **simple yet efficient database management system (DBMS)** built using Python.
 ## 📜 License
 This project is open-source and available under the **MIT License**.
 
----
-> 🚀 **Happy Coding!** 🎯
-
+## 💡 Keep Learning, Keep Building!
+Thank you for checking out this project! Hope you find it useful and learn something new. Happy coding! 🚀
